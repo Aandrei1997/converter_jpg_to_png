@@ -1,4 +1,4 @@
-Project in which jpg images can be converted to png images
+Project in which jpg images can be converted to png images.
 
 Perequisites:
 - PILL module
